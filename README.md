@@ -6,3 +6,12 @@ So, this project will be my very own personal/professional site where I will be 
 
 # Tools used in this Project
 
+- Javascript
+- React
+- Tailwind
+- Vite
+- Hostinger
+
+# Project Progress
+
+Still a work in progress, I am in the early stages with this one, but plan on completing it within a day or two!
