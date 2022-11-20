@@ -6,9 +6,9 @@ Link: https://jpgcodes.com
 
 # Expectations coming into this
 
-This next project is a big one, but one that I wanted to hold off on until I had other projects already completed so that I could add them onto here!
+This next project is a big one, but one that I wanted to hold off on until I had other projects already completed so that I could display them here!
 
-So, this project will be my very own personal/professional site where I will be displaying all of my projects and past work experience/journey.
+So, this project is my very own personal/professional site where I will be displaying all of my projects and past work experience/journey.
 
 # Tools used in this Project
 
@@ -20,16 +20,16 @@ So, this project will be my very own personal/professional site where I will be 
 
 # Project Afterthoughts
 
-So, I did complete the project, however I may go back and fix a couple functionally aspects of it here and there from time to time.
+This project is complete, however I will be editing the src folder, specifically the timeline.js file with any new updates/typo fixes I find!
 
-Right now, I'm a bit frustrated with the Contact button, so I think I'll start there as far as fixing it.
+I was a bit frustrated with the Contact button upon project completion, but after some code review I discovered I set the button type to "button" instead of its default value of "submit". This caused the button to do nothing upon someone clicking it, which is NOT what I wanted. I want users to view my portfolio and send me an email using the Contact Section of the page. (It works now so feel free to Contact Me!).
 
 But aside from that everything else is pretty decent.
 
 # Cool Project Features
 
-So what's really cool about this portfolio is the little Sun/Moon icon I have on the top right of the screen that will toggle Light/Dark Mode for my Portfolio.
+So what's really cool about this portfolio is the little Sun icon I have on the top right of the screen that will toggle Light/Dark Mode for my Portfolio.
 
 Go ahead and press it and see how it works!
 
-I'm really proud of this project because it's the first project I've created on my GitHub that is about me and not just a project to test my skills (not caring about the site data).
+I also created a Workflow for this project using GitHub so that any changes I make to the file in my local_repo, I just have to push it to my remote_repo and the GitHub workflow will compile a Build which is then used by Hostinger to display the most current src code for my Portfolio! 
