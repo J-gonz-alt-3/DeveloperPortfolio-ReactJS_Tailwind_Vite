@@ -2,30 +2,30 @@ export default [
   {
     year: "Today",
     title: "Freelance Web Developer",
-    duration: "1 month",
+    duration: "2 months",
     details:
-      "I create Responsive websites for private clients whom wish to use my services!",
+      "I create Responsive websites for private clients utilizing Frontend technologies such as ReactJS, Tailwind, Vite, and GitHub!",
   },
   {
     year: "2022",
     title: "Adjunct Professor",
     duration: "7 months",
     details:
-      "I taught Python, C++ and Windows Server for two Community Colleges in CT (Gateway Community College and Tunxis Community College). During this time I was able to actively engage with students in the classroom. I taught students Programming Data Structures as well as the Programming Problem Solving Approach that I use when encountered with programming problems.",
+      "I taught Python, C++ and Windows Server for two Community Colleges in CT (Gateway Community College and Tunxis Community College). During this time I was able to actively engage with students in the classroom. I taught students Programming Data Structures as well as Programming Problem Solving Approaches that I use when encountered with difficult programming problems.",
   },
   {
     year: "2020-2022",
     title: "Masters Degree in Cybersecurity Management and Policy",
     duration: "2 years",
     details:
-      "COVID-19 and personal health issues lead me to want to further enhance my knowledge in the field of Cybersecurity through the acquisition of a Masters degree from UMGC. I was able to learn about just how hard it is for corporate companies to stay Cybersecurity compliant not only in the USA but also on an international scale.",
+      "COVID-19 and personal health issues pushed me to reconsider my current situation, thus I decided to further enhance my knowledge-base in the field of Cybersecurity through the acquisition of a Masters degree from UMGC. I was able to learn about regulations/policies that corporations were required to abide by, not only in the USA but also on an international scale.",
   },
   {
     year: "2019-2020",
     title: "Network Administrator",
     duration: "5 months",
     details:
-      "Managed 3 small/medium sized client comapnies for SUND Technologies. This included being on call essentially 24/7 for all my clients, in case they needed any sort of help with their network. In addition to that, I also managed all of their on site networking equipment as well as their cloud backups and firewall.",
+      "I managed 3 small/medium sized client companies for SUND Technologies. This included being on call essentially 24/7 for all my clients, in the case that they needed any sort of technical assistance with their network. In addition to that, I also managed all of their on site networking equipment as well as their Cloud Backups, Firewall, VPNs, and Servers.",
   },
   {
     year: "2019",
@@ -39,7 +39,7 @@ export default [
     title: "Level II Technician",
     duration: "10 months",
     details:
-      "Provided IT Support for the Colchester Public School System (3 school buildings). This included assisting the management of Active Directory, PowerSchool and Google Admin Console.I was also tasked with the Lead Responsibility of managing our MDM Solution (TechPilot). All while directing/managing two Level I technicians and assisting the Network Manager with any Cisco Networking devices.",
+      "Provided IT Support for the Colchester Public School System (3 school buildings). This included assisting in the management of Active Directory, PowerSchool and Google Admin Console. I was also tasked with the Lead responsibility of managing the district MDM Solution (TechPilot). All while managing/instructing two Level I technicians and assisting the Network Manager with any Cisco Networking device configurations.",
   },
   {
     year: "2014-2018",
