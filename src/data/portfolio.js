@@ -3,7 +3,7 @@ export default [
     title: "Developer Portfolio",
     imgUrl: "/assets/portfolio.jpg",
     stack: ["React", "Tailwind", "Vite"],
-    link: "https://jpscode.com",
+    link: "https://jpgcodes.com",
   },
   {
     title: "Modern Restaurant Web App",
