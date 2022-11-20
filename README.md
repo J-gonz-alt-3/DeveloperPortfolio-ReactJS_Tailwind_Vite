@@ -4,8 +4,6 @@ Project Complete.
 
 Link: https://jpgcodes.com
 
-Above is a temporary link until Hostinger brings my site up completely. Will edit once that is done.
-
 # Expectations coming into this
 
 This next project is a big one, but one that I wanted to hold off on until I had other projects already completed so that I could add them onto here!
