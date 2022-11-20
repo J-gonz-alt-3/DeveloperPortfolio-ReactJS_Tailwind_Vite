@@ -2,7 +2,7 @@
 
 Project Complete.
 
-Link: http://jpgcodes-com.preview-domain.com
+Link: https://jpgcodes.com
 
 Above is a temporary link until Hostinger brings my site up completely. Will edit once that is done.
 
