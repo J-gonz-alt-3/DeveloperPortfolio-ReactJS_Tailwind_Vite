@@ -18,9 +18,9 @@ export default [
     link: "https://gpt3-jpg.com",
   },
   {
-    title: "Alternative Dev. Portfolio",
+    title: "Alternative Developer Portfolio",
     imgUrl: "/assets/portfolio_v2.jpg",
     stack: ["NextJS", "Tailwind", "JavaScript"],
-    link: "https://gpt3-jpg.com",
+    link: "https://portfolio-beta-react-tailwind-next-js.vercel.app",
   },
 ];
