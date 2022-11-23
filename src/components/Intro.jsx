@@ -1,6 +1,5 @@
 import React from "react";
 import { AiFillLinkedin } from "react-icons/ai";
-import Title from "./Title";
 
 const Intro = () => {
   return (
@@ -45,7 +44,6 @@ const Intro = () => {
         All coding projects below have been built from the ground up using
         VSCode!
       </p>
-      <Title>Completed Projects</Title>
     </div>
   );
 };
