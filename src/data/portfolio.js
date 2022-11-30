@@ -3,7 +3,7 @@ export default [
     title: "Hangman Game!",
     imgUrl: "/assets/hangman.jpg",
     stack: ["React", "TypeScript", "Vite"],
-    link: "https://jpghangman.online",
+    link: "http://jpghangman-online.preview-domain.com",
   },
   {
     title: "Developer Portfolio",
