@@ -18,15 +18,27 @@ const Intro = () => {
       </div>
       <p className="text-sm max-w-xl mb-6 font-bold">
         I'm an indie Front-End Web Developer, who is working towards becoming a
-        Full Stack Web Developer in the near future! <br />
-        <br />I am 100% self-taught, with most of my foundational training
-        coming from completing countless projects and even receiving the{" "}
+        Full Stack Web Developer! <br />
+        <br />
+        While I did take a couple college level programming courses during my
+        undergrad years, for the most part I am 100% self taught!
+        <br />
+        <br /> I currently hold the{" "}
         <span className="text-teal-500">
           <a
             href="https://www.freecodecamp.org/certification/jpgcodes/responsive-web-design"
             target="_blank"
           >
             Responsive Web Design Certification
+          </a>
+        </span>{" "}
+        and{" "}
+        <span className="text-teal-500">
+          <a
+            href="https://www.freecodecamp.org/certification/jpgcodes/javascript-algorithms-and-data-structures"
+            target="_blank"
+          >
+            JavaScript Algorithms and Data Structures Certification
           </a>
         </span>{" "}
         from{" "}
@@ -36,10 +48,6 @@ const Intro = () => {
           </a>
         </span>
         . <br />
-        <br />
-        Aside from that, I've also dedicated countless hours to watching various
-        YouTube channels/videos on Web Development topics!
-        <br />
         <br />
         All coding projects below have been built from the ground up using
         VSCode!
