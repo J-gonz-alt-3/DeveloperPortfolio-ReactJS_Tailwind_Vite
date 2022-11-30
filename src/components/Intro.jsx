@@ -5,9 +5,12 @@ const Intro = () => {
   return (
     <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
       <h1 className="text-4xl md:text-7xl dark:text-white mb-1 md:mb-3 font-bold">
-        JeanPierre Gonzales-Altamirano
+        JeanPierre <br />
+        Gonzales-Altamirano
       </h1>
-      <p className="text-base md:text-xl mb-3 font-medium">Web Developer</p>
+      <p className="text-base md:text-xl mb-3 font-medium">
+        Freelance Web Developer
+      </p>
       <div className="text-5xl flex justify-center py-3 text-blue-600">
         <a
           href="https://www.linkedin.com/in/gonzalesaltamiranoje/"
@@ -21,7 +24,7 @@ const Intro = () => {
         Full Stack Web Developer! <br />
         <br />
         While I did take a couple college level programming courses during my
-        undergrad years, for the most part I am 100% self taught!
+        undergraduate years, for the most part I am 100% self taught!
         <br />
         <br /> I currently hold the{" "}
         <span className="text-teal-500">
@@ -50,7 +53,13 @@ const Intro = () => {
         . <br />
         <br />
         All coding projects below have been built from the ground up using
-        VSCode!
+        VSCode! If you would like to view the source code for these projects,
+        then check out my{" "}
+        <span className="text-teal-500">
+          <a href="https://github.com/J-gonz-alt-3" target="_blank">
+            GitHub!
+          </a>
+        </span>
       </p>
     </div>
   );
