@@ -13,7 +13,7 @@ export default [
   },
   {
     title: "Alternative Developer Portfolio",
-    imgUrl: "/assets/portfolio_v3.jpg",
+    imgUrl: "/assets/portfoliov3.jpg",
     stack: ["NextJS", "Tailwind", "JavaScript"],
     link: "https://portfolio-beta-react-tailwind-next-js.vercel.app",
   },
