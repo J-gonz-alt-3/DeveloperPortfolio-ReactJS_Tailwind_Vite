@@ -3,7 +3,7 @@ export default [
     title: "Hangman Game",
     imgUrl: "/assets/hangman.png",
     stack: ["React", "TypeScript", "Vite"],
-    link: "http://jpghangman-online.preview-domain.com",
+    link: "https://jpghangman.online",
   },
   {
     title: "Developer Portfolio",
@@ -13,7 +13,7 @@ export default [
   },
   {
     title: "Alternative Developer Portfolio",
-    imgUrl: "/assets/portfolio_v2.jpg",
+    imgUrl: "/assets/portfolio_v3.jpg",
     stack: ["NextJS", "Tailwind", "JavaScript"],
     link: "https://portfolio-beta-react-tailwind-next-js.vercel.app",
   },
