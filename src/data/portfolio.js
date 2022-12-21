@@ -1,5 +1,11 @@
 export default [
   {
+    title: "Client Fullstack WebApp (Still in Prod.)",
+    imgUrl: "/assets/clientsite.png",
+    stack: ["NextJS", "Bootstrap/SASS", "MongoDB"],
+    link: "https://client-fs-app-next-js-api-css-vercel-i9-git-0c3d2c-j-gonz-alt-3.vercel.app",
+  },
+  {
     title: "Hangman Game",
     imgUrl: "/assets/hangman2.jpg",
     stack: ["React", "TypeScript", "Vite"],

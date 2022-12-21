@@ -2,7 +2,7 @@ export default [
   {
     year: "Today",
     title: "Freelance Web Developer",
-    duration: "2 months",
+    duration: "3 months",
     details:
       "I design Responsive Web Applications for start-up clients in CT, utilizing Frontend technologies such as ReactJS, NextJS, TailwindCSS, Vite, and GitHub! Design, development, and deployment is all planned and completed by me within agreed upon timeframe.",
   },
