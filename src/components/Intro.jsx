@@ -9,7 +9,7 @@ const Intro = () => {
         Gonzales-Altamirano
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">
-        Freelance Web Developer
+        Support Engineer/College Professor
       </p>
       <div className="text-5xl flex justify-center py-3 text-blue-600">
         <a
@@ -20,11 +20,13 @@ const Intro = () => {
         </a>
       </div>
       <p className="text-sm max-w-xl mb-6 font-bold">
-        I'm an indie Front-End Web Developer, who is working towards becoming a
-        Full Stack Web Developer! <br />
+        Welcome to my Portfolio! <br /> <br /> I'm a self-taught Front-End Web
+        Developer who has expertise in the following programming languages:
+        Python, C++, JavaScript. <br />
         <br />
-        While I did take a couple college level programming courses during my
-        undergraduate years, for the most part I am 100% self taught!
+        While I did take a few couple college level CSS courses during my
+        undergraduate education, I would say for the most part I am 100% self
+        taught!
         <br />
         <br /> I currently hold the{" "}
         <span className="text-teal-500">
@@ -52,9 +54,13 @@ const Intro = () => {
         </span>
         . <br />
         <br />
-        All coding projects below have been built from the ground up using
-        VSCode! If you would like to view the source code for these projects,
-        then check out my{" "}
+        The coding projects below were created with the purpose of learning
+        various frameworks/CSS technolgies to improve my Front-End development
+        skills.
+        <br />
+        <br />
+        If you would like to view the source code for these projects, then check
+        out my{" "}
         <span className="text-teal-500">
           <a href="https://github.com/J-gonz-alt-3" target="_blank">
             GitHub!
