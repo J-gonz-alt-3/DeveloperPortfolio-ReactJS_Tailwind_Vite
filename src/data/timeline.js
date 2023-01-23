@@ -17,7 +17,7 @@ export default [
     title: "Freelance Web Developer",
     duration: "4 months",
     details:
-      "I design Responsive Web Applications for start-up clients in CT, utilizing Frontend technologies such as ReactJS, NextJS, TailwindCSS, Vite, and GitHub! Design, development, and deployment is all planned and completed by me within agreed upon timeframe.",
+      "I design Responsive Web Applications for start-up clients in CT, utilizing Frontend technologies such as ReactJS, NextJS, TailwindCSS, Vite, and GitHub! Design, development, and deployment is all planned and completed by me within agreed upon timeframe",
   },
   {
     year: "2022",
