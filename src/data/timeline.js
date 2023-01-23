@@ -1,8 +1,21 @@
 export default [
   {
-    year: "Today",
+    year: "2023",
+    title: "Support Engineer",
+    duration: "1 month",
+    details: "TBD - Programming (C++/JAVA), DB (mySQL)",
+  },
+  {
+    year: "2023",
+    title: "Adjunct Professor",
+    duration: "1 month",
+    details:
+      "I teach Structured Programming: Engineering Problem Solving with C++. The course focuses primarily on problem solving approaches, data structures, and algorithms that can be used in conjunction with the prior two tools to solve coding problems!",
+  },
+  {
+    year: "2022",
     title: "Freelance Web Developer",
-    duration: "3 months",
+    duration: "4 months",
     details:
       "I design Responsive Web Applications for start-up clients in CT, utilizing Frontend technologies such as ReactJS, NextJS, TailwindCSS, Vite, and GitHub! Design, development, and deployment is all planned and completed by me within agreed upon timeframe.",
   },
