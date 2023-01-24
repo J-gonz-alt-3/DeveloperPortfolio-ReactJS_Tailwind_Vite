@@ -9,7 +9,7 @@ const Intro = () => {
         Gonzales-Altamirano
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium">
-        Support Engineer/College Professor
+        Adjunct CSS College Professor
       </p>
       <div className="text-5xl flex justify-center py-3 text-blue-600">
         <a
@@ -24,9 +24,9 @@ const Intro = () => {
         Developer who has expertise in the following programming languages:
         Python, C++, JavaScript. <br />
         <br />
-        This entire site was coding from the ground up by me, using JavaScript
-        as the front-end programming language, React as my Framework, and Vite
-        as my boilerplate!
+        This entire site was coded from the ground up by me, using JavaScript as
+        the front-end programming language, React as my Framework, and Vite as
+        my boilerplate!
         <br />
         <br /> I currently hold the{" "}
         <span className="text-teal-500">
