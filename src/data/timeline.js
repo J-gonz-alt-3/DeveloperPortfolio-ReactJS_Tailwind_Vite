@@ -1,16 +1,10 @@
 export default [
   {
     year: "2023",
-    title: "Support Engineer",
-    duration: "1 month",
-    details: "TBD - Programming (C++/JAVA), DB (mySQL)",
-  },
-  {
-    year: "2023",
     title: "Adjunct Professor",
     duration: "1 month",
     details:
-      "I teach Structured Programming: Engineering Problem Solving with C++. The course focuses primarily on problem solving approaches, data structures, and algorithms that can be used in conjunction with the prior two tools to solve coding problems!",
+      "I teach Structured Programming: Engineering Problem Solving with C++. The course focuses primarily on problem solving approaches, data structures, and algorithms that can be used in conjunction with the prior two tools to help students learn how to solve C++ programming problems!",
   },
   {
     year: "2022",
