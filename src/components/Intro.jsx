@@ -24,9 +24,9 @@ const Intro = () => {
         Developer who has expertise in the following programming languages:
         Python, C++, JavaScript. <br />
         <br />
-        While I did take a few couple college level CSS courses during my
-        undergraduate education, I would say for the most part I am 100% self
-        taught!
+        This entire site was coding from the ground up by me, using JavaScript
+        as the front-end programming language, React as my Framework, and Vite
+        as my boilerplate!
         <br />
         <br /> I currently hold the{" "}
         <span className="text-teal-500">
