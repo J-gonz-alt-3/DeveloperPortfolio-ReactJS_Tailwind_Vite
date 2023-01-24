@@ -11,14 +11,14 @@ export default [
     title: "Freelance Web Developer",
     duration: "4 months",
     details:
-      "I design Responsive Web Applications for start-up clients in CT, utilizing Frontend technologies such as ReactJS, NextJS, TailwindCSS, Vite, and GitHub! Design, development, and deployment is all planned and completed by me within agreed upon timeframe",
+      "I designed Responsive Web Applications for start-up clients in CT, utilizing Frontend technologies such as ReactJS, NextJS, TailwindCSS, Vite, and GitHub! Design, development, and deployment were all planned and completed by me within agreed upon timeframe",
   },
   {
     year: "2022",
     title: "Adjunct Professor",
     duration: "7 months",
     details:
-      "I taught Computer Science courses and 1 Windows Server course for Tunxis Community College and Gateway Community College, both in CT. I focused primarily on teaching the students program Data Structures, Algorithms, and Problem Solving approaches to solving common 'Easy-Medium' LeetCode problems. Students enjoyed my teaching approach so much that many of them switched their majors to Computer Science (which they told me at the end of the semester)!",
+      "I taught Computer Science courses and 1 Windows Server course for Tunxis Community College and Gateway Community College, both in CT. I focused primarily on teaching the students program Data Structures, Algorithms, and Problem Solving approaches to solve common 'Easy-Medium' LeetCode problems as well as Engineering problems (utilizing common mathematical formulas). Students enjoyed my teaching approach so much that many of them switched their majors to Computer Science (which they told me at the end of the semester)!",
   },
   {
     year: "2020-2022",
