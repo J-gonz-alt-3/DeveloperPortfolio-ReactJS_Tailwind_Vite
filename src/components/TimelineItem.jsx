@@ -1,6 +1,6 @@
 import React from "react";
 
-const TimelineItem = ({ year, title, duration, details }) => {
+const TimelineItem = ({ year, title, company, duration, details }) => {
   return (
     <ol className="flex flex-col md:flex-row relative border-l border-stone-200 dark:border-stone-700">
       <li className="mb-10 ml-4">
@@ -12,6 +12,9 @@ const TimelineItem = ({ year, title, duration, details }) => {
           <h3 className="text-lg font-semibold text-stone-900 dark:text-white">
             {title}
           </h3>
+          <div className="my-1 text-sm font-normal leading-none text-stone-400 dark:text-white-500">
+            {company}
+          </div>
           <div className="my-1 text-sm font-normal leading-none text-stone-400 dark:text-white-500">
             {duration}
           </div>

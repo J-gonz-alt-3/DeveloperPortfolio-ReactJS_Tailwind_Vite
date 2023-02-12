@@ -12,6 +12,7 @@ const Timeline = () => {
           <TimelineItem
             year={item.year}
             title={item.title}
+            company={item.company}
             duration={item.duration}
             details={item.details}
           />
