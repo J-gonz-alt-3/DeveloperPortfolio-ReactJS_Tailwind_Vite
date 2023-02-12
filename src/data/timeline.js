@@ -41,7 +41,7 @@ export default [
   },
   {
     year: "2020-2022",
-    title: "Masters Degree in Cybersecurity Management and Policy",
+    title: "M.S. in Cybersecurity Management and Policy",
     company: "University of Maryland Global Campus",
     duration: "2 years",
     details:
@@ -73,7 +73,7 @@ export default [
   },
   {
     year: "2014-2018",
-    title: "Bachelor's Degree in Cyber Security",
+    title: "B.S. in Cyber Security Systems",
     company: "St. John's University",
     duration: "4 Years",
     details:
