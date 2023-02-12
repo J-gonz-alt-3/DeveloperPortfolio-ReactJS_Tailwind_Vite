@@ -5,6 +5,8 @@ const Title = ({ children, id }) => {
     <h1
       id={id && id}
       className="text-2xl font-bold underline underline-offset-8 decoration-4 mb-5 text-stone-900 dark:text-white"
+
+      // test to see what color my comments are :)
     >
       {children}
     </h1>

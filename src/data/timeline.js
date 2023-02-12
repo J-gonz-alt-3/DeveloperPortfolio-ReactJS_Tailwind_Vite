@@ -1,8 +1,15 @@
 export default [
   {
     year: "2023",
-    title: "Adjunct Professor",
+    title: "Support Engineer",
     duration: "1 month",
+    details:
+      "I write Java 'Action Sets' (code blocks) using the company's in house IDE to pull, transform and move data from client sources (Active Directory, XML files, txt files, etc.) to other applications.",
+  },
+  {
+    year: "2023",
+    title: "Adjunct Professor",
+    duration: "2 month",
     details:
       "I teach Structured Programming: Engineering Problem Solving with C++. The course focuses primarily on problem solving approaches, data structures, and algorithms that can be used in conjunction with the prior two tools to help students learn how to solve C++ programming problems!",
   },
@@ -25,7 +32,7 @@ export default [
     title: "Masters Degree in Cybersecurity Management and Policy",
     duration: "2 years",
     details:
-      "It was around this time that COVID-19 and personal health issues forced me to re-evaluate my current life direction. After some consideration, I decided to continue my formal education by enrolling at the University of Maryland Global Campus to further enhance my knowledge-base in the field of Cybersecurity (Masters Degree). It was here that I was able to grasp a better understanding of Security Frameworks provided by bodies such NIST and others. I was also able to understand the difficulties that arise with the rise/use of Crypto currency, the struggles of jurisdiction when it comes to  international cyberlaw, among many other topics!",
+      "It was around this time that COVID-19 and personal health issues forced me to re-evaluate my current life direction. After some consideration, I decided to continue my formal education by enrolling at the University of Maryland Global Campus to further enhance my knowledge-base in the field of Cybersecurity (Masters Degree). It was here that I was able to obtain a better understanding of Security Frameworks provided by bodies such NIST and others. I was also able to understand the difficulties that arise with the rise/use of Crypto currency, the struggles of jurisdiction when it comes to  international cyberlaw, among many other topics!",
   },
   {
     year: "2019-2020",
