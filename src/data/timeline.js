@@ -25,7 +25,7 @@ export default [
   },
   {
     year: "2022",
-    title: "Adjunct Professor",
+    title: "Adjunct CSS Professor",
     company: "Tunxis Community College",
     duration: "7 months",
     details:
@@ -33,7 +33,7 @@ export default [
   },
   {
     year: "2022",
-    title: "Adjunct Professor",
+    title: "Adjunct CSS Professor",
     company: "Gateway Community College",
     duration: "5 months",
     details:
@@ -49,7 +49,7 @@ export default [
   },
   {
     year: "2019-2020",
-    title: "Network Administrator",
+    title: "Systems Engineer I",
     company: "SUND Technologies",
     duration: "5 months",
     details:
