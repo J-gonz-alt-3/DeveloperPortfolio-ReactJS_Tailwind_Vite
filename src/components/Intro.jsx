@@ -22,7 +22,7 @@ const Intro = () => {
       <p className="text-sm max-w-xl mb-6 font-bold">
         Welcome to my Portfolio! <br /> <br /> I'm a self-taught Front-End Web
         Developer who has expertise in the following programming languages:
-        Python, C++, JavaScript. <br />
+        JavaScript, Java, Python, C++. <br />
         <br />
         This entire site was coded from the ground up by me, using JavaScript as
         the front-end programming language, React as my Framework, and Vite as

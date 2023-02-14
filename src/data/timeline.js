@@ -3,7 +3,7 @@ export default [
     year: "2023",
     title: "Support Engineer",
     company: "Identity Automation",
-    duration: "1 month",
+    duration: "2 month",
     details:
       "I write Java 'Action Sets' (Java Functions) using the company's in house IDE (Connect) to pull, transform and move data from client sources (Active Directory, XML files, txt files, etc.) to other applications.",
   },
