@@ -3,15 +3,15 @@ export default [
     year: "2023",
     title: "Support Engineer",
     company: "Identity Automation",
-    duration: "2 month",
+    duration: "2 months",
     details:
-      "I write Java 'Action Sets' (Java Functions) using the company's in house IDE (Connect) to pull, transform and move data from client sources (Active Directory, XML files, txt files, etc.) to other applications.",
+      "I write Java 'Action Sets' (Functions) using the company's in house IDE (Connect) to pull, transform and move data from client sources (Active Directory, XML files, txt files, etc.) to other applications.",
   },
   {
     year: "2023",
     title: "Adjunct CSS Professor",
     company: "Gateway Community College",
-    duration: "2 month",
+    duration: "2 months",
     details:
       "I teach Structured Programming: Engineering Problem Solving with C++. The course focuses primarily on problem solving approaches, data structures, and algorithms that can be used in conjunction with the prior two tools to help students learn how to solve C++ programming problems!",
   },
