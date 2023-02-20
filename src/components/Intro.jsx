@@ -5,7 +5,7 @@ import { AiFillGithub } from "react-icons/ai";
 const Intro = () => {
   return (
     <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
-      <h1 className="text-4xl md:text-7xl dark:text-fuchsia-400 mb-1 md:mb-3 font-bold font-serif text-fuchsia-600">
+      <h1 className="text-4xl md:text-7xl dark:text-fuchsia-400 mb-1 md:mb-3 font-bold font-serif text-fuchsia-600 ">
         JeanPierre <br />
         Gonzales-Altamirano
       </h1>

@@ -6,7 +6,7 @@ function PortfolioItem({ title, imgUrl, stack, link }) {
       href={link}
       target="_blank"
       rel="noopener noreferrer"
-      className="border-2 border-stone-900 dark:border-white rounded-md overflow-hidden"
+      className="border-2 border-sky-600 dark:border-sky-400 rounded-md overflow-hidden"
     >
       <img
         src={imgUrl}
@@ -17,9 +17,9 @@ function PortfolioItem({ title, imgUrl, stack, link }) {
         <h3 className="text-lg md:text-xl dark:text-white mb-2 md:mb-3 font-semibold ">
           {title}
         </h3>
-        <p className="flex flex-wrap gap-2 flex-row items-center justify-start text-xs md:text-sm dark:text-white ">
+        <p className="flex flex-wrap gap-2 flex-row items-center justify-start text-xs md:text-sm text-sky-600 dark:text-sky-400 ">
           {stack.map((item) => (
-            <span className="inline-block px-2 py-1 font-semibold border-2 border-stone-900 dark:border-white rounded-md">
+            <span className="inline-block px-2 py-1 font-semibold border-2 border-fuchsia-600 dark:border-fuchsia-400 rounded-md">
               {item}
             </span>
           ))}
