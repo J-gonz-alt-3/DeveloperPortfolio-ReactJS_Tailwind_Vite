@@ -5,7 +5,7 @@ export default [
     company: "Identity Automation",
     duration: "2 months",
     details:
-      "I write Java 'Action Sets' (Functions) using the company's in house IDE (Connect) to pull, transform and move data from client sources (Active Directory, XML files, txt files, etc.) to other applications.",
+      "I write/edit Java 'Action Sets' (Functions) using the company's in house IDE (Connect) to pull, transform and move data from client sources (Active Directory, XML files, txt files, etc.) to other end point applications.",
   },
   {
     year: "2023",
@@ -21,7 +21,7 @@ export default [
     company: "Freelance",
     duration: "4 months",
     details:
-      "I designed/coded Responsive Web Applications for start-up clients in CT, utilizing Frontend technologies such as ReactJS, NextJS, TailwindCSS, Vite, and GitHub for version control. All projects deliverables were discussed and delivered to the client(s) throughout project lifecycle and only brought onto live servers once client was satisfied with the product.",
+      "I designed/coded Responsive Web Applications for start-up clients in CT. I utilized Front-end technologies such as ReactJS, NextJS, TailwindCSS, Vite, and GitHub for version control. All projects deliverables were discussed and delivered to the client(s) throughout project lifecycle and only brought onto live servers once the client was satisfied with the end result.",
   },
   {
     year: "2022",
@@ -29,7 +29,7 @@ export default [
     company: "Tunxis Community College",
     duration: "7 months",
     details:
-      "I taught Python Programming (for 2 semesters) and Windows Server Administration (for 1 semester). For the Python courses, I focused primarily on teaching the students Python Data Structures, common coding Algorithms, and Problem Solving techniques to solve coding problems. Students enjoyed my teaching approach so much that many of them ended up switching their majors to Computer Science (which they told me at the end of the semester)!",
+      "I taught Python Programming (for 2 semesters) and Windows Server Administration (for 1 semester). For the Python courses, I focused primarily on teaching the students Python Data Structures, common coding Algorithms, and Problem Solving techniques to teach them how to solve coding problems. Students enjoyed my teaching approach so much that many of them ended up switching their majors to Computer Science (which they told me at the end of the semester)!",
   },
   {
     year: "2022",
@@ -37,7 +37,7 @@ export default [
     company: "Gateway Community College",
     duration: "5 months",
     details:
-      "I taught Structured Programming: Engineering Problem Solving with C++. I focused primarily on teaching the students C++ Data Structures, common coding Algorithms, and Problem Solving techniques to solve common 'Easy-Medium' LeetCode problems as well as Engineering problems (utilizing common mathematical formulas).",
+      "I taught Structured Programming: Engineering Problem Solving with C++. I focused primarily on teaching the students C++ Data Structures, common coding Algorithms, and Problem Solving techniques to help them understand how to solve 'Easy-Medium' LeetCode problems as well as Engineering problems (utilizing common mathematical formulas).",
   },
   {
     year: "2020-2022",
