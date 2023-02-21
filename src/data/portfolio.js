@@ -12,19 +12,19 @@ export default [
     link: "https://jpghangman.online",
   },
   {
-    title: "Client Fullstack WebApp",
+    title: "Fullstack WebApp",
     imgUrl: "/assets/clientsite.png",
     stack: ["NextJS", "Bootstrap/SASS", "MongoDB"],
     link: "https://client-fs-app-next-js-api-css-vercel-i9-git-0c3d2c-j-gonz-alt-3.vercel.app",
   },
   {
-    title: "Modern Restaurant Web App",
+    title: "Modern Restaurant Website",
     imgUrl: "/assets/finedining.jpg",
     stack: ["React", "CSS", "JavaScript"],
     link: "https://jpgfoods.shop",
   },
   {
-    title: "Modern UI/UX Web App",
+    title: "Modern UI/UX Website",
     imgUrl: "/assets/ai_site.jpg",
     stack: ["React", "CSS", "JavaScript"],
     link: "https://gpt3-jpg.com",
