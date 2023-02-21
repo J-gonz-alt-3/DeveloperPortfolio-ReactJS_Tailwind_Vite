@@ -30,7 +30,7 @@ export default [
     link: "https://gpt3-jpg.com",
   },
   {
-    title: "Alternative Developer Portfolio",
+    title: "First NextJS Project",
     imgUrl: "/assets/portfoliov3.jpg",
     stack: ["NextJS", "Tailwind", "JavaScript"],
     link: "https://portfolio-beta-react-tailwind-next-js.vercel.app",
