@@ -20,7 +20,7 @@ const Intro = () => {
           <AiFillLinkedin />
         </a>
         <a
-          className="px-3 text-pink-500"
+          className="px-3 text-pink-600"
           href="https://github.com/J-gonz-alt-3"
           target="_blank"
         >
