@@ -3,17 +3,17 @@ export default [
     year: "2023",
     title: "Support Engineer",
     company: "Identity Automation",
-    duration: "2 months",
+    duration: "3 months",
     details:
       "I write/edit Java 'Action Sets' (Functions) using the company's in house IDE (Connect) to pull, transform and move data from client sources (Active Directory, XML files, txt files, etc.) to other end point applications.",
   },
   {
     year: "2023",
-    title: "Adjunct CSS Professor",
+    title: "Adjunct Professor",
     company: "Gateway Community College",
-    duration: "2 months",
+    duration: "3 months",
     details:
-      "I teach Structured Programming: Engineering Problem Solving with C++. The course focuses primarily on problem solving approaches, data structures, and algorithms that can be used in conjunction with the prior two tools to help students learn how to solve C++ programming problems!",
+      "Assigned to the College's Engineering Department, I currently teach Structured Programming: Engineering Problem Solving with C++. The course focuses primarily on Problem Solving Approaches, C++ Data Structures, and common Coding Algorithms that can be used in conjunction with the prior two tools to help students learn how to solve C++ programming problems.",
   },
   {
     year: "2022",
@@ -25,19 +25,19 @@ export default [
   },
   {
     year: "2022",
-    title: "Adjunct CSS Professor",
+    title: "Adjunct Professor",
     company: "Tunxis Community College",
     duration: "7 months",
     details:
-      "I taught Python Programming (for 2 semesters) and Windows Server Administration (for 1 semester). For the Python courses, I focused primarily on teaching the students Python Data Structures, common coding Algorithms, and Problem Solving techniques to teach them how to solve coding problems. Students enjoyed my teaching approach so much that many of them ended up switching their majors to Computer Science (which they told me at the end of the semester)!",
+      "Assigned to the Computer Science Departement, I taught Python Programming (for 2 semesters) and Windows Server Administration (for 1 semester). For the Python courses, I focused primarily on teaching the students Python Data Structures, Coding Algorithms, and Problem Solving techniques. For Windows Server Administration, I focused primarily on showing students the various features/tools available in Active Directory, and how features differed based on what version of Windows Server was being utilized.",
   },
   {
     year: "2022",
-    title: "Adjunct CSS Professor",
+    title: "Adjunct Professor",
     company: "Gateway Community College",
     duration: "5 months",
     details:
-      "I taught Structured Programming: Engineering Problem Solving with C++. I focused primarily on teaching the students C++ Data Structures, common coding Algorithms, and Problem Solving techniques to help them understand how to solve 'Easy-Medium' LeetCode problems as well as Engineering problems (utilizing common mathematical formulas).",
+      "Assigned to the College's Engineering Department, I taught Structured Programming: Engineering Problem Solving with C++. I focused primarily on teaching the students Problem Solving Approaches, C++ Data Structures, and common Coding Algorithms to help them understand how to solve coding problems (such as LeetCode problems), as well as Engineering problems (which utilized mathematical formulas).",
   },
   {
     year: "2020-2022",
