@@ -5,7 +5,7 @@ export default [
     company: "Identity Automation",
     duration: "3 months",
     details:
-      "I write Java programs using the company IDE’s (Connect) to access data from client local systems. Which I then read, transform, and output data that same data to another system (typically cloud system) for better data management/security. Specific examples include importing new text file, XML file, or AD data. As well as updating existing AD systems with bulk data that contains new/existing user data, and writing java programs that add those new users, while making sure to only update already existing records if and only if there are new changes to that user since the last AD sync.",
+      "I write Java programs using the company IDE’s (Connect) to access data from client local systems, which I then read, transform, and output to another system (typically cloud system) for better data management. A specific example being importing new text file, XML file, and/or AD data into my java program so that I can then manipulate the dataset which in many cases contains many user records. In other cases, I am updating existing AD systems with bulk data that contains both new and already existing user data. For these cases I write java programs that handle the addition of these new users, while making sure to only update already existing records if and only if there are new changes to that existing users record, otherwise the record skips so as not to create duplicate pieces of user information.",
   },
   {
     year: "2023",
