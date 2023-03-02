@@ -29,7 +29,7 @@ export default [
     company: "Tunxis Community College",
     duration: "7 months",
     details:
-      "Assigned to the Computer Science Department, I taught Python Programming (for 2 semesters) and Windows Server Administration (for 1 semester). For the Python courses, I focused primarily on teaching the students Python Data Structures, Coding Algorithms, and Problem Solving techniques. For Windows Server Administration, I focused primarily on showing students the various features/tools available in Active Directory, and how those features can also vary based on what version of Windows Server is currently being utilized.",
+      "Assigned to the College’s Computer Information Systems Department, I taught Python Programming (for 2 semesters) and Windows Server Administration (for 1 semester). For the Python courses, I focused primarily on teaching the students Python Data Structures, Coding Algorithms, and Problem Solving techniques. For Windows Server Administration, I focused primarily on showing students the various features/tools available in Active Directory, and how those features can also vary based on what version of Windows Server is currently being utilized.",
   },
   {
     year: "2022",
