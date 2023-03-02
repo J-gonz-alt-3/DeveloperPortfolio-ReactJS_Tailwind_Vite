@@ -5,7 +5,7 @@ export default [
     company: "Identity Automation",
     duration: "3 months",
     details:
-      "I write/edit Java 'Action Sets' (Functions) using the company's in house IDE (Connect) to pull, transform and move data from client sources (Active Directory, XML files, txt files, etc.) to other end point applications.",
+      "I write Java programs using the company IDE’s (Connect) to access data from client local systems. Which I then read, transform, and output data that same data to another system (typically cloud system) for better data management/security. Specific examples include importing new data from text file, XML file, and AD data or updating AD systems with new/old data, making sure to only update records that have changed since last sync.",
   },
   {
     year: "2023",
@@ -21,7 +21,7 @@ export default [
     company: "Freelance",
     duration: "4 months",
     details:
-      "I designed/coded Responsive Web Applications for start-up clients in CT. I utilized Front-end technologies such as ReactJS, NextJS, TailwindCSS, Vite, and GitHub for version control. All projects deliverables were discussed and delivered to the client(s) throughout project lifecycle and only brought onto live servers once the client was satisfied with the end result.",
+      "I designed/coded Responsive Web Applications for startup client companies in CT. Web Apps varied from single page to multi-page sites. Most client deliverables were built using Front-End technologies such as NextJS,  TailwindCSS, and MongoDB. Other technologies used in these clients’ projects sometimes included: Vite, React/TypeScript, GitHub workflows, and Hostinger.",
   },
   {
     year: "2022",
@@ -29,7 +29,7 @@ export default [
     company: "Tunxis Community College",
     duration: "7 months",
     details:
-      "Assigned to the Computer Science Departement, I taught Python Programming (for 2 semesters) and Windows Server Administration (for 1 semester). For the Python courses, I focused primarily on teaching the students Python Data Structures, Coding Algorithms, and Problem Solving techniques. For Windows Server Administration, I focused primarily on showing students the various features/tools available in Active Directory, and how those features can also vary based on what version of Windows Server is currently being utilized.",
+      "Assigned to the Computer Science Department, I taught Python Programming (for 2 semesters) and Windows Server Administration (for 1 semester). For the Python courses, I focused primarily on teaching the students Python Data Structures, Coding Algorithms, and Problem Solving techniques. For Windows Server Administration, I focused primarily on showing students the various features/tools available in Active Directory, and how those features can also vary based on what version of Windows Server is currently being utilized.",
   },
   {
     year: "2022",
