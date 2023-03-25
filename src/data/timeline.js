@@ -45,7 +45,7 @@ export default [
     company: "University of Maryland Global Campus",
     duration: "2 years",
     details:
-      "Due to COVID-19 and personal health issues, I took time off from my professional career and decided to continue my formal education by enrolling at UMGC to further enhance my knowledge-base in the field of Cybersecurity. It was here that I was able to obtain a better understanding of Cybersecurity Frameworks provided by public entities such as NIST. I was also able to better understand the role of cryptography with regards to Cryptocurrency, and the struggles of jurisdiction when it comes to  international cyberlaw, among many other topics!",
+      "Due to COVID-19 and personal health issues, I took time off from my professional career and decided to continue my formal education by enrolling at UMGC to further enhance my knowledge-base in the field of Cybersecurity. It was here that I was able to obtain a better understanding of Cybersecurity Frameworks, such as those provided by NIST. I was also able to better understand the role of cryptography, and the struggles of jurisdiction when it comes to international cyberlaw, among many other topics!",
   },
   {
     year: "2019-2020",
@@ -77,6 +77,6 @@ export default [
     company: "St. John's University",
     duration: "4 Years",
     details:
-      "I pursued the knowledge that a Cyber Security Systems degree had to offer. I learned about Coding Data Structures, SQL Databases, Linux, Networking, Digital Forensics, and of course Cyber Security theory/hands-on practice during my time at St. John's University.",
+      "I pursued the knowledge that a Cyber Security Systems degree had to offer. I learned about Coding Data Structures, SQL Databases, Linux (CentOS), Computer Networking, Digital Forensics, and of course Cyber Security theory/hands-on practice during my time at St. John's University.",
   },
 ];
