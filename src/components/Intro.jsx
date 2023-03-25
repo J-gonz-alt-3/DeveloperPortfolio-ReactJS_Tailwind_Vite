@@ -6,11 +6,11 @@ const Intro = () => {
   return (
     <div className="flex items-center justify-center flex-col text-center pt-20 pb-6">
       <h1 className="text-4xl md:text-7xl dark:text-fuchsia-400 mb-1 md:mb-3 font-bold font-serif text-fuchsia-600 ">
-        JeanPierre <br />
-        Gonzales-Altamirano
+        Jean Pierre <br />
+        Gonzales Altamirano
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium text-sky-600 dark:text-sky-400">
-        Support Engineer/Adjunct Professor
+        Support Engineer | Adjunct Professor
       </p>
       <div className="text-5xl flex justify-center py-3 text-blue-600">
         <a

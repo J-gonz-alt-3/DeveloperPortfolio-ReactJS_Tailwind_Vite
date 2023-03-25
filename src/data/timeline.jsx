@@ -8,7 +8,7 @@ export default [
       <ul>
         <li>
           {" "}
-          - Write Java programs using the company IDE's (Connect) to access data
+          - Write Java programs using the company's IDE (Connect) to access data
           from client local systems which I then read, transform, and output to
           other end systems (typically cloud tenants) for better data
           management/accessibility.
