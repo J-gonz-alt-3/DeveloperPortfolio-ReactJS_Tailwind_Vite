@@ -5,7 +5,7 @@ export default [
     company: "Identity Automation",
     duration: "3 months",
     details:
-      "I write Java programs using the company IDE’s (Connect) to access data from client local systems, which I then read, transform, and output to another system (typically cloud system) for better data management. A specific example being importing new text file, XML file, and/or AD data into my java program so that I can then manipulate the dataset which in many cases contains many user records. In other cases, I am updating existing AD systems with bulk data that contains both new and already existing user data. For these cases I write java programs that handle the addition of these new users, while making sure to only update already existing records if and only if there are new changes to that existing users record, otherwise the record skips so as not to create duplicate pieces of user information.",
+      "I write Java programs using the company IDE’s (Connect) to access data from client local systems, which I then read, transform, and output to other end systems (typically cloud tenants) for better data management/accessibility. I also provide support for client RI on-prem and cloud tenants (which run on CentOS 7). When testing possible fixes, to ensure quality solutions/minimal client downtime, fixes are first tested on my own RI (on-prem) virtual environment (which runs on UTM hypervisor) before being pushed to client environment. I provide management of client Active Directory and LDAP through the use of LDAP/Active Directory filters, which I incorporate into my Connect (Java) programs and execute any changes to those environments through the Java program execution. Among other responsibilities as well.",
   },
   {
     year: "2023",
@@ -13,7 +13,7 @@ export default [
     company: "Gateway Community College",
     duration: "3 months",
     details:
-      "Assigned to the College's Engineering Department, I currently teach Structured Programming: Engineering Problem Solving with C++. The course focuses primarily on Problem Solving Approaches, C++ Data Structures, and common Coding Algorithms that can be used in conjunction with the prior two tools to help students learn how to solve C++ programming problems.",
+      "Currently assigned to the College's Engineering Department, I currently teach Structured Programming: Engineering Problem Solving with C++. I mainly focus on teaching students Problem Solving Approaches, C++ Data Structures, and common Coding Algorithms. Teaching approach is to first lecture students for roughly 40-60 minutes on the topic assigned for that particular class, after which I then have students do hands-on Coding Problems. The first 1 or 2 Coding Problems are typically written out on the whiteboard by me, however all of the code is provided by the students (open forum type discourse), where I ask students how we should solve the problem and whenever they get stuck, I provide leading reasoning to help them reach the solution.",
   },
   {
     year: "2022",
@@ -21,7 +21,7 @@ export default [
     company: "Freelance",
     duration: "4 months",
     details:
-      "I designed/coded Responsive Web Applications for startup client companies in CT. Web Apps varied from single page to multi-page sites. Most client deliverables were built using Front-End technologies such as NextJS,  TailwindCSS, and MongoDB. Other technologies used in these clients’ projects sometimes included: Vite, React/TypeScript, GitHub workflows, and Hostinger.",
+      "Responsible for the design/coding process for creating Responsive Web Apps/Websites for startup clients in CT. Web Apps/Websites varied from single page to multi-page sites and were typically developed using NextJS as a framework. Aside from NextJS, technologies that were utilized in client projects were TailwindCSS, MongoDB and Git for version control. Some clients also provided Figma (Design) Files, which assisted me in having to design from scratch.",
   },
   {
     year: "2022",
@@ -29,7 +29,7 @@ export default [
     company: "Tunxis Community College",
     duration: "7 months",
     details:
-      "Assigned to the College’s Computer Information Systems Department, I taught Python Programming (for 2 semesters) and Windows Server Administration (for 1 semester). For the Python courses, I focused primarily on teaching the students Python Data Structures, Coding Algorithms, and Problem Solving techniques. For Windows Server Administration, I focused primarily on showing students the various features/tools available in Active Directory, and how those features can also vary based on what version of Windows Server is currently being utilized.",
+      "Assigned to the College’s Computer Information Systems Department, I taught Programming Logic & Design w/ Python (for 2 semesters) and Windows Server Administration (for 1 semester). For the Python courses, I focused primarily on teaching students Python Data Structures, Coding Algorithms, and Problem-Solving Techniques. For Windows Server Administration, I focused primarily on showing students the various features/tools available in Active Directory, how user management could be done via the GUI but also via PowerShell and the advantages/disadvantages to both approaches.",
   },
   {
     year: "2022",
@@ -37,7 +37,7 @@ export default [
     company: "Gateway Community College",
     duration: "5 months",
     details:
-      "Assigned to the College's Engineering Department, I taught Structured Programming: Engineering Problem Solving with C++. I focused primarily on teaching the students Problem Solving Approaches, C++ Data Structures, and common Coding Algorithms to help them understand how to solve coding problems (such as LeetCode problems), as well as Engineering problems (which utilized mathematical formulas).",
+      "Assigned to the College’s Engineering Department, I taught Structured Programming: Engineering Problem Solving with C++. (for 1 semester). My main focus was to teach students Problem Solving Approaches, C++ Data Structures, and common Coding Algorithms to help them understand how to solve a wide variety of coding problems. Lectures were given for the first part of class, and then students were given the rest of the class time to solve the provided Coding Packet Problems (some of which we completed together as a class on the whiteboard).",
   },
   {
     year: "2020-2022",
@@ -53,7 +53,7 @@ export default [
     company: "SUND Technologies",
     duration: "5 months",
     details:
-      "Tasked with the management of 3 medium sized client companies’ IT network infrastructures. This included using VMWare vCenter to manage Linux and Windows Servers. Microsoft Azure Active Directory to manage hybrid client environments (not all my clients used this, but 1 did). I was in charge of managing client Data Backups via Datto’s cloud console manager. I also managed client Firewalls, and provided secure remote connections for users. Finally, client WLANs were also managed by me, as well as overall network troubleshooting 24/7 (always on-call).",
+      "Responsible for the management of three small/medium sized client companies’ IT network infrastructure (CT based clients). Utilized Hypervisor software (vSphere Hypervisor) to manage client Linux (CentOS 7) and Windows Servers. Managed Microsoft Azure Active Directory for clients who had cloud environments but also had to manage situations in which client’s had hybrid (on-prem and cloud) environments. Regularly provided maintenance and support for client Data Backups via Datto's cloud console manager. Clients were using Datto Siris devices which held local and cloud backups of client data. Setup and maintained client WLANs, this included mapping out best locations for Wireless Adaptors. Utilized ConnectWise as the company ticketing system to manage client tickets, clock billable hours, and store client documentation.",
   },
   {
     year: "2019",
