@@ -8,14 +8,14 @@ export default [
       <ul>
         <li>
           {" "}
-          - I write Java programs using the company IDE's (Connect) to access
-          data from client local systems which I then read, transform, and
-          output to other end systems (typically cloud tenants) for better data
+          - Write Java programs using the company IDE's (Connect) to access data
+          from client local systems which I then read, transform, and output to
+          other end systems (typically cloud tenants) for better data
           management/accessibility.
         </li>
         <li>
-          - I also provide support for client RI on-prem and cloud tenants
-          (which run on CentOS 7).
+          - Provide support for client RI on-prem and cloud tenants (which run
+          on CentOS 7).
         </li>
         <li>
           - When testing possible fixes, to ensure quality solutions/minimal
@@ -25,10 +25,10 @@ export default [
         </li>
         <li>
           {" "}
-          - I provide management of client Active Directory and LDAP through the
-          use of LDAP/Active Directory filters, which I incorporate into my
-          Connect (Java) programs and execute any changes to those environments
-          through the Java program execution.
+          - Manage/Support client Active Directory and LDAP through the use of
+          LDAP/Active Directory filters, which I incorporate into my Connect
+          (Java) programs and execute any changes to those environments through
+          the Java program execution.
         </li>
       </ul>
     ),
@@ -46,7 +46,7 @@ export default [
           with C++.
         </li>
         <li>
-          - I mainly focus on teaching students Problem Solving Approaches, C++
+          - Mainly focus on teaching students Problem Solving Approaches, C++
           Data Structures, and common Coding Algorithms.
         </li>
         <li>
@@ -160,9 +160,9 @@ export default [
           Cybersecurity Frameworks, such as those provided by NIST.
         </li>
         <li>
-          - I was also able to better understand the role of cryptography, and
-          the struggles of jurisdiction when it comes to international cyberlaw,
-          among many other topics!
+          - Also gained a better understanding of the role cryptography plays in
+          todays world, and the struggles of jurisdiction when it comes to
+          international cyberlaw, among many other topics!
         </li>
       </ol>
     ),
@@ -211,23 +211,79 @@ export default [
     title: "Technology Specialist",
     company: "Orange Public Schools",
     duration: "6 months",
-    details:
-      "I implemented the district's first WDS server to help streamline staff/student PC/laptop image deployment. I also wrote Bash and PowerShell scripts, which I included within the WDS server configuration to help automate certain customizations for specific software/Windows settings. I assisted in the management of district Active Directory, PowerSchool, Google Admin Console, and MDM Solution (JAMF). I also assisted the Network Manager in configuring and installing district L3 Juniper, and Cisco Switches. Finally, I provided in person/remote technical assistance to district staff.",
+    details: (
+      <ol>
+        <li>
+          - Implemented the district's first WDS server to help streamline
+          staff/student PC/laptop image deployment.
+        </li>
+        <li>
+          - Wrote Bash and PowerShell scripts, which I included within the WDS
+          server configuration to help automate certain customizations for
+          specific software/Windows settings.
+        </li>
+        <li>
+          - Assisted in the management of district Active Directory,
+          PowerSchool, Google Admin Console, and MDM Solution (JAMF).
+        </li>
+        <li>
+          - Assisted the Network Manager in configuring and installing district
+          L3 Juniper, and Cisco Switches.
+        </li>
+        <li>
+          - Provided in person/remote technical assistance to district staff.
+        </li>
+      </ol>
+    ),
   },
   {
     year: "2018",
     title: "Level II Technician",
     company: "Colchester Public Schools",
     duration: "10 months",
-    details:
-      "I was assigned as the Lead Admin for the district's MDM solution TechPilot, which managed over 800 active IoT devices. I was also responsible for the management of two Level I technicians, and was in charge of assigning them daily tasks and rating their overall performance to the IT Director on a weekly basis. I assisted in the management of district Active Directory, PowerSchool, and Google Admin Console. I also assisted the Network Manager with the configuration and deployment of district Cisco L3 Switches. Finally, I provided in person/remote technical assistance to district staff.",
+    details: (
+      <ol>
+        <li>
+          - Assigned as the Lead Admin for the district's MDM solution
+          TechPilot, which managed over 800 active IoT devices.
+        </li>
+        <li>
+          - Responsible for the management of two Level I technicians, this
+          included assigning them daily support tickets and acting as a resource
+          to them when they needed help resolving a support ticket.
+        </li>
+        <li>
+          - Assisted in the management of district Active Directory,
+          PowerSchool, and Google Admin Console.
+        </li>
+        <li>
+          - Assisted the Network Manager with the configuration and deployment
+          of district Cisco L3 Switches.
+        </li>
+        <li>
+          - Provided in person/remote technical assistance to district staff.
+        </li>
+      </ol>
+    ),
   },
   {
     year: "2014-2018",
     title: "B.S. in Cyber Security Systems",
     company: "St. John's University",
     duration: "4 Years",
-    details:
-      "I pursued the knowledge that a Cyber Security Systems degree had to offer. I learned about Coding Data Structures, SQL Databases, Linux (CentOS), Computer Networking, Digital Forensics, and of course Cyber Security theory/hands-on practice during my time at St. John's University.",
+    details: (
+      <ol>
+        <li>
+          - Pursued the knowledge that a Cyber Security Systems degree had to
+          offer.
+        </li>
+        <li>
+          - Learned about Coding Data Structures, SQL Databases, Linux Server
+          Administration (CentOS), IT Networking, Digital Forensics, Cyber
+          Security theory/hands-on practice, among many other topics during my
+          time at St. John's University.
+        </li>
+      </ol>
+    ),
   },
 ];
