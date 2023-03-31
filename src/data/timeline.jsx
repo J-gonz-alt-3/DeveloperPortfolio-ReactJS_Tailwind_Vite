@@ -3,7 +3,7 @@ export default [
     year: "2023",
     title: "Support Engineer",
     company: "Identity Automation",
-    duration: "3 months",
+    duration: "4 months",
     details: (
       <ul>
         <li>
@@ -37,7 +37,7 @@ export default [
     year: "2023",
     title: "Adjunct Professor",
     company: "Gateway Community College",
-    duration: "3 months",
+    duration: "4 months",
     details: (
       <ol>
         <li>
