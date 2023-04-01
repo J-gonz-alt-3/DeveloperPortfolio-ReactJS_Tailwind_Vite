@@ -8,27 +8,34 @@ export default [
       <ul>
         <li>
           {" "}
-          - Write Java programs using the company's IDE (Connect) to access data
-          from client local systems which I then read, transform, and output to
-          other end systems (typically cloud tenants) for better data
-          management/accessibility.
+          • Write Java programs (Actionsets) using the company’s IDE (Connect)
+          to access data from local client systems which I then read, transform,
+          and output to other end (downstream) systems.
         </li>
         <li>
-          - Provide support for client RI on-prem and cloud tenants (which run
-          on CentOS 7).
+          • Provide support for client RI on-prem and cloud tenants. (On prem
+          tenants run on CentOS 7, while cloud tenants are hosted on AWS).
         </li>
         <li>
-          - When testing possible fixes, to ensure quality solutions/minimal
-          client downtime, fixes are first tested on my own RI (on-prem) virtual
-          environment (which runs on UTM hypervisor) before being pushed to
-          client environment.
+          • When testing possible fixes, to ensure quality solutions/minimal
+          client downtime, fixes are first tested in a controlled virtual lab
+          environment (UTM hypervisor) before being pushed to client
+          environments.
         </li>
         <li>
           {" "}
-          - Manage/Support client Active Directory and LDAP through the use of
-          LDAP/Active Directory filters, which I incorporate into my Connect
-          (Java) programs and execute any changes to those environments through
-          the Java program execution.
+          • Provide support for client LDAP, AD and Google environments via
+          Connect Actionsets and execute any changes to those directories
+          through the Connect Actionset execution.
+        </li>
+        <li>
+          • Generate SSL certificates for client RI tenants both manually (via
+          Linux CMD) as well as via a Connect Actionset.
+        </li>
+        <li>
+          • Create Authentication Policies for groups of users in client LDAP
+          and/or Active Directory, which then apply to users attempting to
+          access RI Portal or any of the Apps within the RI Portal that use SSO.
         </li>
       </ul>
     ),
