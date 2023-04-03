@@ -1,7 +1,7 @@
 export default [
   {
     year: "2023",
-    title: "Support Engineer",
+    title: "Support Engineer II",
     company: "Identity Automation",
     duration: "4 months",
     details: (
