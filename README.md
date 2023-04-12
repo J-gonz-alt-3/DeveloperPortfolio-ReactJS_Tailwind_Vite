@@ -4,7 +4,7 @@ Project Complete.
 
 Link: https://jpgcodes.com
 
-# Expectations coming into this
+# Expectations coming into this project
 
 This next project is a big one, but one that I wanted to hold off on until I had other projects already completed so that I could display them here!
 
