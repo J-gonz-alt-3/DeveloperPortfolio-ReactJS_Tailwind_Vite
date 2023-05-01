@@ -3,14 +3,14 @@ export default [
     year: "2023",
     title: "Support Engineer II",
     company: "Identity Automation",
-    duration: "4 months",
+    duration: "5 months",
     details: (
       <ul>
         <li>
           {" "}
-          • Write Java programs (Actionsets) using the company’s IDE (Connect)
-          to access data from local client systems which I then read, transform,
-          and output to other end (downstream) systems.
+          • Write/Edit Java programs (Actionsets) using the company’s IDE
+          (Connect) to access data from local client systems which I then read,
+          transform, and output to other end (downstream) systems.
         </li>
         <li>
           • Provide support for client RI on-prem and cloud tenants. (On prem
@@ -44,7 +44,7 @@ export default [
     year: "2023",
     title: "Adjunct Professor",
     company: "Gateway Community College",
-    duration: "4 months",
+    duration: "5 months",
     details: (
       <ol>
         <li>
