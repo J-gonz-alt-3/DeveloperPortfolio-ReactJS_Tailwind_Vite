@@ -48,25 +48,24 @@ export default [
     details: (
       <ol>
         <li>
-          • Currently assigned to the College's Engineering Department, I
-          currently teach Structured Programming: Engineering Problem Solving
-          with C++.
+          • Assigned to the College's Engineering Department, I taught
+          Structured Programming: Engineering Problem Solving with C++.
         </li>
         <li>
-          • Mainly focus on teaching students Problem Solving Approaches, C++
+          • Mainly focused on teaching students Problem Solving Approaches, C++
           Data Structures, and common Coding Algorithms.
         </li>
         <li>
-          • Teaching approach is to first lecture students for roughly 40-60
+          • Teaching approach was to first lecture students for roughly 40-60
           minutes on the topic assigned for that particular class, after which I
-          then have students do hands-on Coding Problems.
+          then had students do hands-on Coding Problems.
         </li>
         <li>
-          • The first 1 or 2 Coding Problems are typically written out on the
+          • The first 1 or 2 Coding Problems were typically written out on the
           whiteboard by me, however all of the code is provided by the students
-          (open forum type discourse), where I ask students how we should solve
-          the problem and whenever they get stuck, I provide leading reasoning
-          to help them reach the solution.
+          (open forum type discourse), where I asked students how we should
+          solve the problem and whenever they got stuck, I provided leading
+          reasoning to help them reach the solution.
         </li>
       </ol>
     ),

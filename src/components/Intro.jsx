@@ -10,7 +10,7 @@ const Intro = () => {
         Gonzales Altamirano
       </h1>
       <p className="text-base md:text-xl mb-3 font-medium text-sky-600 dark:text-sky-400">
-        Support Engineer II | Adjunct Professor
+        Support Engineer II
       </p>
       <div className="text-5xl flex justify-center py-3 text-blue-600">
         <a
