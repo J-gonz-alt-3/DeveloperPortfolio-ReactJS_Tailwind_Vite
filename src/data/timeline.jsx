@@ -3,30 +3,30 @@ export default [
     year: "2023",
     title: "Support Engineer II",
     company: "Identity Automation",
-    duration: "5 months",
+    duration: "6 months",
     details: (
       <ul>
         <li>
           {" "}
-          • Write/Edit Java programs (Actionsets) using the company’s IDE
-          (Connect) to access data from local client systems which I then read,
-          transform, and output to other end (downstream) systems.
+          • Write/Edit Java-like programs (Actionsets) using the company’s IDE
+          (Connect) to access data from local customer systems which I then
+          read, transform, and output to other end (downstream) systems.
         </li>
         <li>
-          • Provide support for client RI on-prem and cloud tenants. (On prem
-          tenants run on CentOS 7, while cloud tenants are hosted on AWS).
+          • Provide support for on-prem and cloud RI tenants. (On prem tenants
+          run on CentOS 7, while cloud tenants are hosted on AWS).
         </li>
         <li>
           • When testing possible fixes, to ensure quality solutions/minimal
           client downtime, fixes are first tested in a controlled virtual lab
-          environment (UTM hypervisor) before being pushed to client
+          environment (UTM hypervisor) before being pushed to customer
           environments.
         </li>
         <li>
           {" "}
           • Provide support for client LDAP, AD and Google environments via
           Connect Actionsets and execute any changes to those directories
-          through the Connect Actionset execution.
+          through the Connect Actionset itself.
         </li>
         <li>
           • Generate SSL certificates for client RI tenants both manually (via
@@ -62,7 +62,7 @@ export default [
         </li>
         <li>
           • The first 1 or 2 Coding Problems were typically written out on the
-          whiteboard by me, however all of the code is provided by the students
+          whiteboard by me, however all of the code was provided by the students
           (open forum type discourse), where I asked students how we should
           solve the problem and whenever they got stuck, I provided leading
           reasoning to help them reach the solution.
