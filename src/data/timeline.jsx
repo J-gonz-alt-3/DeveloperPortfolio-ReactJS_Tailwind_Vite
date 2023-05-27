@@ -29,10 +29,6 @@ export default [
           through the Connect Actionset itself.
         </li>
         <li>
-          • Generate SSL certificates for client RI tenants both manually (via
-          Linux CMD) as well as via a Connect Actionset.
-        </li>
-        <li>
           • Create Authentication Policies for groups of users in client LDAP
           and/or Active Directory, which then apply to users attempting to
           access RI Portal or any of the Apps within the RI Portal that use SSO.
